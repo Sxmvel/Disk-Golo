@@ -1,0 +1,56 @@
+1,Coca-Cola,8,5,350,2.0,4.0,Tradicional  
+2,Coca-Cola,10,5,350,2.0,4.0,Zero  
+3,Coca-Cola,10,5,600,2.5,5.0,Tradicional  
+4,Coca-Cola,10,5,600,2.5,5.0,Zero  
+5,Coca-Cola,10,5,1000,4.0,8.0,Tradicional  
+6,Coca-Cola,10,5,1000,4.0,8.0,Zero  
+7,Coca-Cola,10,5,2000,5.0,10.0,Tradicional  
+8,Coca-Cola,10,5,2000,5.0,10.0,Zero  
+9,Guarana,10,5,350,1.75,3.5,Tradicional  
+10,Guarana,10,5,350,1.75,3.5,Zero  
+11,Guarana,10,5,600,2.25,4.5,Tradicional  
+12,Guarana,10,5,600,2.25,4.5,Zero  
+13,Guarana,10,5,1000,3.5,7.0,Tradicional  
+14,Guarana,10,5,1000,3.5,7.0,Zero  
+15,Guarana,10,5,2000,4.5,9.0,Tradicional  
+16,Guarana,10,5,2000,4.5,9.0,Zero  
+17,Fanta Laranja,10,5,350,2.0,4.0,Tradicional  
+18,Fanta Laranja,10,5,350,2.0,4.0,Zero  
+19,Fanta Laranja,10,5,600,2.5,5.0,Tradicional  
+20,Fanta Laranja,10,5,600,2.5,5.0,Zero  
+21,Fanta Laranja,10,5,1000,4.0,8.0,Tradicional  
+22,Fanta Laranja,10,5,1000,4.0,8.0,Zero  
+23,Fanta Laranja,10,5,2000,5.0,10.0,Tradicional  
+24,Fanta Laranja,10,5,2000,5.0,10.0,Zero  
+25,Fanta uva,10,5,350,2.0,4.0,Tradicional  
+26,Fanta uva,10,5,350,2.0,4.0,Zero  
+27,Fanta uva,10,5,600,2.5,5.0,Tradicional  
+28,Fanta uva,10,5,600,2.5,5.0,Zero  
+29,Fanta uva,10,5,1000,4.0,8.0,Tradicional  
+30,Fanta uva,10,5,1000,4.0,8.0,Zero  
+31,Fanta uva,10,5,2000,5.0,10.0,Tradicional  
+32,Fanta uva,10,5,2000,5.0,10.0,Zero  
+33,Sprinter,10,5,350,1.5,3.0,Tradicional  
+34,Sprinter,10,5,350,1.5,3.0,Zero  
+35,Sprinter,10,5,600,2.0,4.0,Tradicional  
+36,Sprinter,10,5,600,2.0,4.0,Zero  
+37,Sprinter,10,5,1000,3.0,6.0,Tradicional  
+38,Sprinter,10,5,1000,3.0,6.0,Zero  
+39,Sprinter,10,5,2000,4.0,8.0,Tradicional  
+40,Sprinter,10,5,2000,4.0,8.0,Zero  
+41,Guarapan,10,5,350,1.5,3.0,Tradicional  
+42,Guarapan,10,5,350,1.5,3.0,Zero  
+43,Guarapan,10,5,600,2.0,4.0,Tradicional  
+44,Guarapan,10,5,600,2.0,4.0,Zero  
+45,Guarapan,10,5,1000,3.0,6.0,Tradicional  
+46,Guarapan,10,5,1000,3.0,6.0,Zero  
+47,Guarapan,10,5,2000,4.0,8.0,Tradicional  
+48,Guarapan,10,5,2000,4.0,8.0,Zero  
+49,Pepsi,10,5,350,2.0,4.0,Tradicional  
+50,Pepsi,10,5,350,2.0,4.0,Zero  
+51,Pepsi,10,5,600,2.5,5.0,Tradicional  
+52,Pepsi,10,5,600,2.5,5.0,Zero  
+53,Pepsi,10,5,1000,4.0,8.0,Tradicional  
+54,Pepsi,7,5,1000,4.0,8.0,Zero  
+55,Pepsi,10,5,2000,5.0,10.0,Tradicional  
+56,Pepsi,0,5,2000,5.0,10.0,Zero  

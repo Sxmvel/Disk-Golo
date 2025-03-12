@@ -1,0 +1,14 @@
+1,tradicional,redbull,redbull,14,5,350,4.75,9.5
+2,tradicional,Monster energy,Monster energy,10,5,350,4.25,8.5
+3,melancia,Monster energy,ULTRA WATERMELON,10,5,350,4.75,9.5
+4,uva,Monster energy,Ultra Violet,10,5,350,4.75,9.5
+5,Frutas Tropicais,Fusion,Fusion Tropical,10,5,350,3.0,6.0
+6,Frutas Tropicais,Fusion,Fusion Tropical,10,5,1000,9.0,18.0
+7,Guaraná,Fusion,Fusion Guaraná,10,5,350,3.5,7.0
+8,Guaraná,Fusion,Fusion Guaraná,10,5,1000,9.5,19.0
+9,melancia,Bally,Baly Melancia,10,5,350,2.25,4.5
+10,melancia,Bally,Baly Melancia,10,5,1000,7.5,15.0
+11,tradicional,TNT,TNT original,10,5,350,2.75,5.5
+12,tradicional,TNT,TNT original,10,5,1000,8.0,16.0
+13,tangerina,TNT,TNT Tangerina,10,5,350,3.0,6.0
+14,Maça Verde,TNT,TNT Maça Verde,10,5,350,5.5,11.0
